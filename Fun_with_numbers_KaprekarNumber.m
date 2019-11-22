@@ -5,8 +5,8 @@
 % 6174. Run this program and try it! You can also try it for three digits
 % etc.
 
-% written by Prasanth Ganesan <pganesan2017@fau.edu>
-% file created on 05/18/2018
+% written by Prasanth Ganesan <prasganesan.pg@gmail.cpm>
+% created on 05/18/2018
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
