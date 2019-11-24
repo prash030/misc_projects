@@ -4,7 +4,9 @@
 % different digit places and different digit numbers such as 4 digit and 5
 % digit numbers.
 
-% Written by Prasanth "Prash" Ganesan <prasganesan.pg@gmail.com>
+% Copyright (c) Prasanth "Prash" Ganesan
+% Author email: <prasganesan.pg@gmail.com>
+
 % created on 03/22/2017
 
 x=[1:9];
