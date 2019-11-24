@@ -5,7 +5,9 @@
 % 6174. Run this program and try it! You can also try it for three digits
 % etc.
 
-% written by Prasanth Ganesan <prasganesan.pg@gmail.cpm>
+% Copyright (c) Prasanth "Prash" Ganesan
+% Author email: <prasganesan.pg@gmail.com>
+
 % created on 05/18/2018
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
